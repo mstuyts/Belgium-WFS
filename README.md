@@ -27,7 +27,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/wfs)
 
-* [ibgebim.be - wms.ibgebim.be](http://wms.ibgebim.be/ibgewms)
+* [ibgebim.be - wfs.ibgebim.be](http://wfs.ibgebim.be/ibgewfs)
 
 
 

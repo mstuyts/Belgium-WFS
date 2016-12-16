@@ -55,7 +55,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [vmm - geo.agiv.be](https://geo.agiv.be/ogc/wfs/vmm)
 
-* [WFS GRB - Informatie Vlaanderen](http://geoservices.beta.informatievlaanderen.be/overdrachtdiensten/GRB/wfs)
+* [WFS GRB - Informatie Vlaanderen](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs)
 
 * [WFS Opnameposities 360°-beeldendatabank Vlaanderen - AGIV](https://viewer.image-v.be/MM_Opnameposities)
 

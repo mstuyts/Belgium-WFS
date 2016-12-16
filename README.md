@@ -11,56 +11,56 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ##Belgium
 
-* [IRCEL - CELINE - Web Feature Service - Belgian Interregional Environment Agency](http://geo.irceline.be/wfs)
+* [IRCEL - CELINE - Web Feature Service - Belgian Interregional Environment Agency](http://geo.irceline.be/wfs) - [GetCapabilities](http://geo.irceline.be/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [meteo.be - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/wfs)
+* [meteo.be - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/wfs) - [GetCapabilities](http://opendata.meteo.be/service/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 
 ##Brussels
 
-* [GeoServer Web Feature Service - Brussel Mobiliteit - Bruxelles Mobilite](http://data-mobility.irisnet.be/geoserver/bm_public_space/wfs)
+* [GeoServer Web Feature Service - Brussel Mobiliteit - Bruxelles Mobilite](http://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](http://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs)
+* [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/wfs)
+* [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/wfs)
+* [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [ibgebim.be - wfs.ibgebim.be](http://wfs.ibgebim.be/ibgewfs)
+* [layer of proprietary information - Gael Kruwialis](http://wfs.ibgebim.be/ibgewfs) - [GetCapabilities](http://wfs.ibgebim.be/ibgewfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 
 ##Flanders
 
-* [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs)
+* [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [agentschapmdk.be - bathy.agentschapmdk.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wfs/WFS_ENC)
+* [agentschapmdk.be - bathy.agentschapmdk.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wfs/WFS_ENC) - [GetCapabilities](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wfs/WFS_ENC?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [Centraal Referentieadressenbestand - AGIV](http://crab.agiv.be/OGC/Service.svc/)
+* [Centraal Referentieadressenbestand - AGIV](http://crab.agiv.be/OGC/Service.svc/) - [GetCapabilities](http://crab.agiv.be/OGC/Service.svc/?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [dataservices_AtlasBuurtwegen_wijzigingen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WFSServer)
+* [dataservices_AtlasBuurtwegen_wijzigingen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [dataservices_AtlasWaterlopen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WFSServer)
+* [dataservices_AtlasWaterlopen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [dataservices_RUPs - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WFSServer)
+* [dataservices_RUPs - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [Download Service van Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs)
+* [Download Service van Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - OVAM](http://services.ovam.be/geoserver/wfs)
+* [GeoServer Web Feature Service - OVAM](http://services.ovam.be/geoserver/wfs) - [GetCapabilities](http://services.ovam.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs)
+* [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [ruimtevlaanderen.be - Vlaamse Overheid - Departement Ruimte Vlaanderen](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs)
+* [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [vmm - geo.agiv.be](https://geo.agiv.be/ogc/wfs/vmm)
+* [vmm - geo.agiv.be](https://geo.agiv.be/ogc/wfs/vmm) - [GetCapabilities](https://geo.agiv.be/ogc/wfs/vmm?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS GRB - Informatie Vlaanderen](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs)
+* [WFS GRB - Informatie Vlaanderen](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Opnameposities 360°-beeldendatabank Vlaanderen - AGIV](https://viewer.image-v.be/MM_Opnameposities)
+* [WFS Opnameposities 360°-beeldendatabank Vlaanderen - AGIV](https://viewer.image-v.be/MM_Opnameposities) - [GetCapabilities](https://viewer.image-v.be/MM_Opnameposities?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 
 ##World
 
-* [Marine Regions - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs)
+* [Marine Regions - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

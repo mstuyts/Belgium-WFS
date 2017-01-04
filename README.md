@@ -53,11 +53,39 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [vmm - geo.agiv.be](https://geo.agiv.be/ogc/wfs/vmm) - [GetCapabilities](https://geo.agiv.be/ogc/wfs/vmm?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Biologische Waarderingskaart en Natura 2000 Habitatkaart - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS GRB - Informatie Vlaanderen](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS Grenzen van Polders - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Grenzen van wateringen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Wateringen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Wateringen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Meetnet Afvalwater - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetAfvalwater/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetAfvalwater/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Meetnet Riooloverstorten - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetRiooloverstorten/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetRiooloverstorten/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Meetplaatsen Oppervlaktewaterkwaliteit - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS Opnameposities 360°-beeldendatabank Vlaanderen - AGIV](https://viewer.image-v.be/MM_Opnameposities) - [GetCapabilities](https://viewer.image-v.be/MM_Opnameposities?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Oppervlaktewaterwingebieden Drinkwater - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Overstromingsgebieden en oeverzones - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OGOZ/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OGOZ/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Recent overstroomde gebieden - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/ROG/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/ROG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Rioleringsdatabank Vlaanderen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Van nature overstroombare gebieden - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Vlaamse Hydrografische Atlas - Waterlopen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Vlaamse Hydrografische Atlas - Zones - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Waterkwaliteitsdoelstellingen Wateroppervlakken - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/WokwdoelWateropp/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/WokwdoelWateropp/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Watersystemen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 

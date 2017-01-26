@@ -45,6 +45,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [dataservices_RUPs - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [Download Service van Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - OVAM](http://services.ovam.be/geoserver/wfs) - [GetCapabilities](http://services.ovam.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

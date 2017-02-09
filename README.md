@@ -91,6 +91,12 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
+##Wallonia
+
+* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](http://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+
+
 ##World
 
 * [Marine Regions - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

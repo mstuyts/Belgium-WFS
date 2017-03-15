@@ -11,7 +11,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Belgium
 
-* [IRCEL - CELINE - Web Feature Service - Belgian Interregional Environment Agency](http://geo.irceline.be/wfs) - [GetCapabilities](http://geo.irceline.be/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [IRCEL - CELINE - Web Feature Service - Belgian Interregional Environment Agency](https://geo.irceline.be/wfs) - [GetCapabilities](https://geo.irceline.be/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [meteo.be - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/wfs) - [GetCapabilities](http://opendata.meteo.be/service/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -19,7 +19,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Brussels
 
-* [GeoServer Web Feature Service - Brussel Mobiliteit - Bruxelles Mobilite](http://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](http://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [GeoServer Web Feature Service - Brussel Mobiliteit - Bruxelles Mobilite](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -49,83 +49,83 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Download Service van Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - OVAM](http://services.ovam.be/geoserver/wfs) - [GetCapabilities](http://services.ovam.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [GeoServer Web Feature Service - OVAM](https://services.ovam.be/geoserver/wfs) - [GetCapabilities](https://services.ovam.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Adressen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Adressen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Bebossing op de Ferrariskaarten - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BosFerraris/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BosFerraris/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Bebossing op de Ferrariskaarten - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosFerraris/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosFerraris/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Bebossing op de topografische kaarten - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BosTopokaart/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BosTopokaart/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Bebossing op de topografische kaarten - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosTopokaart/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosTopokaart/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Bebossing op de Vandermaelenkaarten - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BosVandermaelen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BosVandermaelen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Bebossing op de Vandermaelenkaarten - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosVandermaelen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosVandermaelen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Biologische Waarderingskaart en Natura 2000 Habitatkaart - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Biologische Waarderingskaart en Natura 2000 Habitatkaart - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Bosleeftijd - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosleeftijd/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosleeftijd/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Bosleeftijd - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosleeftijd/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosleeftijd/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Bosreferentielaag 2000 - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosref/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosref/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Bosreferentielaag 2000 - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosref/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosref/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Focusgebieden nitraat mestdecreet - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Focusgebieden nitraat mestdecreet - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Gebieden met recht van voorkoop - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Gebieden met recht van voorkoop - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS GRB - Informatie Vlaanderen](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS GRB - Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Grenzen van Polders - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Grenzen van Polders - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Grenzen van wateringen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Wateringen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Wateringen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Grenzen van wateringen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Wateringen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Wateringen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Haltes De Lijn - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Haltes/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Haltes/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Haltes De Lijn - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Haltes/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Haltes/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Landbouwgebruikspercelen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbgebrperc/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbgebrperc/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Landbouwgebruikspercelen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbgebrperc/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbgebrperc/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Landbouwstreken België - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbouwstreken/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbouwstreken/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Landbouwstreken België - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbouwstreken/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Landbouwstreken/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Meetnet Afvalwater - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetAfvalwater/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetAfvalwater/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Meetnet Afvalwater - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetAfvalwater/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetAfvalwater/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Meetnet Riooloverstorten - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetRiooloverstorten/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetRiooloverstorten/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Meetnet Riooloverstorten - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetRiooloverstorten/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetnetRiooloverstorten/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Meetplaatsen Oppervlaktewaterkwaliteit - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Meetplaatsen Oppervlaktewaterkwaliteit - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Opnameposities 360°-beeldendatabank Vlaanderen - AGIV](https://viewer.image-v.be/MM_Opnameposities) - [GetCapabilities](https://viewer.image-v.be/MM_Opnameposities?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Oppervlaktewaterwingebieden Drinkwater - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Oppervlaktewaterwingebieden Drinkwater - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Overstromingsgebieden en oeverzones - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OGOZ/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/OGOZ/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Overstromingsgebieden en oeverzones - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/OGOZ/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/OGOZ/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Potentieel natuurlijke vegetatie - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/PNV/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/PNV/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Potentieel natuurlijke vegetatie - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/PNV/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/PNV/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Recent overstroomde gebieden - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/ROG/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/ROG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Recent overstroomde gebieden - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/ROG/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/ROG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Reiswegen De Lijn - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Reiswegen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Reiswegen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Reiswegen De Lijn - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Reiswegen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Reiswegen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Rioleringsdatabank Vlaanderen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Rioleringsdatabank Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Traditionele landschappen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/TradLa/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/TradLa/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Traditionele landschappen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/TradLa/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/TradLa/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Van nature overstroombare gebieden - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Van nature overstroombare gebieden - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Vlaamse Hydrografische Atlas - Waterlopen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Vlaamse Hydrografische Atlas - Waterlopen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Vlaamse Hydrografische Atlas - Zones - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Vlaamse Hydrografische Atlas - Zones - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Voorlopig referentiebestand gemeentegrenzen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VRBG/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/VRBG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Voorlopig referentiebestand gemeentegrenzen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VRBG/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VRBG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Waterkwaliteitsdoelstellingen Wateroppervlakken - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/WokwdoelWateropp/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/WokwdoelWateropp/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Waterkwaliteitsdoelstellingen Wateroppervlakken - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WokwdoelWateropp/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WokwdoelWateropp/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Watersystemen - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Watersystemen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Woningbouw- en woonvernieuwingsgebieden - AIV](http://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs) - [GetCapabilities](http://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Woningbouw- en woonvernieuwingsgebieden - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 
 ## Wallonia
 
-* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](http://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 

@@ -9,7 +9,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Belgium
+## Belgium
 
 * [IRCEL - CELINE - Web Feature Service - Belgian Interregional Environment Agency](http://geo.irceline.be/wfs) - [GetCapabilities](http://geo.irceline.be/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -17,7 +17,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Brussels
+## Brussels
 
 * [GeoServer Web Feature Service - Brussel Mobiliteit - Bruxelles Mobilite](http://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](http://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -31,7 +31,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Flanders
+## Flanders
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -123,12 +123,12 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Wallonia
+## Wallonia
 
 * [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](http://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 
-##World
+## World
 
 * [Marine Regions - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

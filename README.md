@@ -53,6 +53,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [GeoServer Web Feature Service - AGIV](https://remotesensing.agiv.be/gis/geoserver/wfs) - [GetCapabilities](https://remotesensing.agiv.be/gis/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Adressen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

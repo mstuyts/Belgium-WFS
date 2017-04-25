@@ -47,13 +47,13 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [Download Service van Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [GeoServer Web Feature Service - OVAM](https://services.ovam.be/geoserver/wfs) - [GetCapabilities](https://services.ovam.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - AGIV](https://remotesensing.agiv.be/gis/geoserver/wfs) - [GetCapabilities](https://remotesensing.agiv.be/gis/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [INSPIRE Downloaddienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

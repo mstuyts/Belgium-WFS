@@ -35,7 +35,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [agentschapmdk.be - bathy.agentschapmdk.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wfs/WFS_ENC) - [GetCapabilities](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wfs/WFS_ENC?REQUEST=GetCapabilities&SERVICE=WFS)
+* [AM.SensitiveArea.Wrecks - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Centraal Referentieadressenbestand - AGIV](http://crab.agiv.be/OGC/Service.svc/) - [GetCapabilities](http://crab.agiv.be/OGC/Service.svc/?REQUEST=GetCapabilities&SERVICE=WFS)
 

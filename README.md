@@ -57,6 +57,10 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [INSPIRE Downloaddienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [meetpunten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [meetpunten_MOW - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/meetpunten_MOW/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/meetpunten_MOW/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Adressen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -95,6 +99,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS Meetplaatsen Oppervlaktewaterkwaliteit - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/MeetplOppervlwaterkwal/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS met services van de VMM - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/waterinfo_WFS/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/waterinfo_WFS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS Opnameposities 360°-beeldendatabank Vlaanderen - AGIV](https://viewer.image-v.be/MM_Opnameposities) - [GetCapabilities](https://viewer.image-v.be/MM_Opnameposities?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Oppervlaktewaterwingebieden Drinkwater - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/OppwwinDrinkwater/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -124,6 +130,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [WFS Watersystemen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Woningbouw- en woonvernieuwingsgebieden - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 

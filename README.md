@@ -19,6 +19,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Brussels
 
+* [CIRB WFS1 - CIRB](http://geoserver.gis.irisnet.be/urbis/wfs) - [GetCapabilities](http://geoserver.gis.irisnet.be/urbis/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [GeoServer Web Feature Service - Brussel Mobiliteit - Bruxelles Mobilite](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

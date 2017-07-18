@@ -21,8 +21,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CIRB WFS1 - CIRB](http://geoserver.gis.irisnet.be/urbis/wfs) - [GetCapabilities](http://geoserver.gis.irisnet.be/urbis/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - Brussel Mobiliteit - Bruxelles Mobilite](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -30,6 +28,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Feature Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/wfs) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [layer of proprietary information - Gael Kruwialis](http://wfs.ibgebim.be/ibgewfs) - [GetCapabilities](http://wfs.ibgebim.be/ibgewfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS for bm_public_space - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 
@@ -44,6 +44,10 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [dataservices_AtlasBuurtwegen_wijzigingen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [dataservices_AtlasWaterlopen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [dataservices_BFF - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/BFF/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/BFF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [dataservices_RecreatieveNetwerken - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [dataservices_RUPs - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 

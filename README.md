@@ -37,8 +37,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [AM.SensitiveArea.Wrecks - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [Centraal Referentieadressenbestand - AGIV](http://crab.agiv.be/OGC/Service.svc/) - [GetCapabilities](http://crab.agiv.be/OGC/Service.svc/?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [dataservices_AtlasBuurtwegen_wijzigingen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -136,6 +134,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [WFS Watersystemen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Woningbouw- en woonvernieuwingsgebieden - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 

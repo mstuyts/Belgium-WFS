@@ -67,6 +67,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS - www.geoloket.be](http://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer) - [GetCapabilities](http://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS Adressen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Bebossing op de Ferrariskaarten - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosFerraris/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosFerraris/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

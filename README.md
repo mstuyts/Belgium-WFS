@@ -149,8 +149,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## World
 
-* [CubeSERV Demo WFS - Foundation - CubeWerx Inc.](http://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation) - [GetCapabilities](http://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation?REQUEST=GetCapabilities&SERVICE=WFS)
+* [CubeSERV Demo WFS - Foundation - CubeWerx Inc.](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation) - [GetCapabilities](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [Marine Regions - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [Flanders Marine Institute (VLIZ) - WFS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WMS Demo Server for MapServer - Gateway Geomatics](http://demo.mapserver.org/cgi-bin/wfs) - [GetCapabilities](http://demo.mapserver.org/cgi-bin/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

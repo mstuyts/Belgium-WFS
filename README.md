@@ -165,6 +165,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 
 
 ## World

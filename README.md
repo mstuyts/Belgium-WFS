@@ -43,8 +43,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Flanders
 
-* [ - inspire.flaris.be](http://inspire.flaris.be/geoserver/ows) - [GetCapabilities](http://inspire.flaris.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)

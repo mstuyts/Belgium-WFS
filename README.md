@@ -11,9 +11,13 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Belgium
 
+* [GeoServer Web Feature Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](http://geoserver.bmdc.be/ows) - [GetCapabilities](http://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [IRCEL - CELINE - Web Feature Service - Belgian Interregional Environment Agency](https://geo.irceline.be/wfs) - [GetCapabilities](https://geo.irceline.be/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [meteo.be - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/wfs) - [GetCapabilities](http://opendata.meteo.be/service/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [meteo.be - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/lidar/wfs) - [GetCapabilities](http://opendata.meteo.be/service/lidar/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 
@@ -39,7 +43,11 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Flanders
 
+* [ - inspire.flaris.be](http://inspire.flaris.be/geoserver/ows) - [GetCapabilities](http://inspire.flaris.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Centraal Referentieadressenbestand - AGIV](http://crab.agiv.be/OGC/Service.svc/) - [GetCapabilities](http://crab.agiv.be/OGC/Service.svc/?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -70,6 +78,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Feature Service - AGIV](https://remotesensing.agiv.be/gis/geoserver/wfs) - [GetCapabilities](https://remotesensing.agiv.be/gis/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - The Ancient Geographers](https://geoserver2.nodemapp.com/geoserver/ows) - [GetCapabilities](https://geoserver2.nodemapp.com/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [GeoServer Web Feature Service - Vlaamse Milieumaatschappij](http://geoserver.vmm.be/geoserver/HDGIS/wfs) - [GetCapabilities](http://geoserver.vmm.be/geoserver/HDGIS/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [INSPIRE Downloaddienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -175,6 +185,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [APP_IRIS_IRIS_LAST_WFS - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [My GeoServer WFS - geonode.imio.be](http://geonode.imio.be/geoserver/ows) - [GetCapabilities](http://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
@@ -184,5 +196,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [CubeSERV Demo WFS - Foundation - CubeWerx Inc.](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation) - [GetCapabilities](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Flanders Marine Institute (VLIZ) - WFS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [GeoServer Web Feature Service - OBIS](http://iobis.org/geoserver/ows) - [GetCapabilities](http://iobis.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WMS Demo Server for MapServer - Gateway Geomatics](http://demo.mapserver.org/cgi-bin/wfs) - [GetCapabilities](http://demo.mapserver.org/cgi-bin/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

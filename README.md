@@ -11,7 +11,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Belgium
 
-* [GeoServer Web Feature Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](http://geoserver.bmdc.be/ows) - [GetCapabilities](http://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+* [GeoServer Web Feature Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](https://geoserver.bmdc.be/ows) - [GetCapabilities](https://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [IRCEL - CELINE - Web Feature Service - Belgian Interregional Environment Agency](https://geo.irceline.be/wfs) - [GetCapabilities](https://geo.irceline.be/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -77,7 +77,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - The Ancient Geographers](https://geoserver2.nodemapp.com/geoserver/ows) - [GetCapabilities](https://geoserver2.nodemapp.com/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - Vlaamse Milieumaatschappij](http://geoserver.vmm.be/geoserver/HDGIS/wfs) - [GetCapabilities](http://geoserver.vmm.be/geoserver/HDGIS/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [GeoServer Web Feature Service - Vlaamse Milieumaatschappij](https://geoserver.vmm.be/geoserver/HDGIS/wfs) - [GetCapabilities](https://geoserver.vmm.be/geoserver/HDGIS/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [INSPIRE Downloaddienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -183,7 +183,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [APP_IRIS_IRIS_LAST_WFS - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [My GeoServer WFS - geonode.imio.be](http://geonode.imio.be/geoserver/ows) - [GetCapabilities](http://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+* [My GeoServer WFS - geonode.imio.be](https://geonode.imio.be/geoserver/ows) - [GetCapabilities](https://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 

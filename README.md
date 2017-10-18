@@ -151,6 +151,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS Rioleringsdatabank Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Rioleringsdatabank/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS Steunzones - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Steunzones/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Steunzones/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS Traditionele landschappen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/TradLa/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/TradLa/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Van nature overstroombare gebieden - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

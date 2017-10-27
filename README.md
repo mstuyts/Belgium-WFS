@@ -211,4 +211,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - OBIS](http://iobis.org/geoserver/ows) - [GetCapabilities](http://iobis.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [lesprojekt.cz - gis.lesprojekt.cz](http://gis.lesprojekt.cz/wms/transport/traffic_volumes) - [GetCapabilities](http://gis.lesprojekt.cz/wms/transport/traffic_volumes?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [OpenTransportMap - gis.lesprojekt.cz](http://gis.lesprojekt.cz/wms/transport/open_transport_map) - [GetCapabilities](http://gis.lesprojekt.cz/wms/transport/open_transport_map?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WMS Demo Server for MapServer - Gateway Geomatics](http://demo.mapserver.org/cgi-bin/wfs) - [GetCapabilities](http://demo.mapserver.org/cgi-bin/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

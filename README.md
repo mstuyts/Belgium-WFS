@@ -107,6 +107,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Ruiternetwerk en knooppunten Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [verkeerscentrum.be - indicatoren.verkeerscentrum.be](http://indicatoren.verkeerscentrum.be/geoserver/ows) - [GetCapabilities](http://indicatoren.verkeerscentrum.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [Wandelnetwerk en knooppunten Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS - www.geoloket.be](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)

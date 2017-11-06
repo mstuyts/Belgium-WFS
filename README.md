@@ -199,9 +199,17 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [APP_IRIS_IRIS_LAST_WFS - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [Arrets - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [Lignes - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Lignes/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Lignes/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [My GeoServer WFS - geonode.imio.be](https://geonode.imio.be/geoserver/ows) - [GetCapabilities](https://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [Poteaux - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Poteaux/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Poteaux/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [Zones - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 

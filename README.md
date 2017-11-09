@@ -55,10 +55,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Flanders
 
-* [ - geoserver.rwo.be](https://geoserver.rwo.be/geoserver/ows) - [GetCapabilities](https://geoserver.rwo.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [ - ro-publiek.ruimtevlaanderen.be](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -94,6 +90,10 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Feature Service - The Ancient Geographers](https://geoserver2.nodemapp.com/geoserver/ows) - [GetCapabilities](https://geoserver2.nodemapp.com/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - Vlaamse Milieumaatschappij](https://geoserver.vmm.be/geoserver/HDGIS/wfs) - [GetCapabilities](https://geoserver.vmm.be/geoserver/HDGIS/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [GeoServer Web Feature Service - geoserver.rwo.be](https://geoserver.rwo.be/geoserver/ows) - [GetCapabilities](https://geoserver.rwo.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [GeoServer Web Feature Service - RWO](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [INSPIRE Downloaddienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

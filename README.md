@@ -1,3 +1,4 @@
+
 # WFS List Belgium
 **A list of WFS services with data for Belgium**
 
@@ -73,6 +74,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [Download Service van Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [Fietsnetwerk en knooppunten Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - OVAM](https://services.ovam.be/geoserver/wfs) - [GetCapabilities](https://services.ovam.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -94,8 +97,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Feature Service - geoserver.rwo.be](https://geoserver.rwo.be/geoserver/ows) - [GetCapabilities](https://geoserver.rwo.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - RWO](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [INSPIRE Downloaddienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [LF routes Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -230,3 +231,4 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [OpenTransportMap - gis.lesprojekt.cz](http://gis.lesprojekt.cz/wms/transport/open_transport_map) - [GetCapabilities](http://gis.lesprojekt.cz/wms/transport/open_transport_map?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WMS Demo Server for MapServer - Gateway Geomatics](http://demo.mapserver.org/cgi-bin/wfs) - [GetCapabilities](http://demo.mapserver.org/cgi-bin/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+

@@ -44,8 +44,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS for bm_bike - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_bike/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_bike/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS for bm_equipment - Brussels Mobility](https://data-mobility.brussels/geoserver/bm_equipment/wfs) - [GetCapabilities](https://data-mobility.brussels/geoserver/bm_equipment/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [WFS for bm_parking - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_parking/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_parking/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS for bm_public_space - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_public_space/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -59,6 +57,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [Atlas Buurtwegen (WFS) - Provincie Antwerpen](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Centraal Referentieadressenbestand - AGIV](http://crab.agiv.be/OGC/Service.svc/) - [GetCapabilities](http://crab.agiv.be/OGC/Service.svc/?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -75,8 +75,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Download Service van Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wfs) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [Fietsnetwerk en knooppunten Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - OVAM](https://services.ovam.be/geoserver/wfs) - [GetCapabilities](https://services.ovam.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -113,8 +111,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [Ruiternetwerk en knooppunten Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [verkeerscentrum.be - indicatoren.verkeerscentrum.be](http://indicatoren.verkeerscentrum.be/geoserver/ows) - [GetCapabilities](http://indicatoren.verkeerscentrum.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [Wandelnetwerk en knooppunten Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS - www.geoloket.be](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -198,8 +194,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Wallonia
 
-* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [APP_IRIS_IRIS_DS_WFS - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_DS_WFS/MapServer/WFSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_DS_WFS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [APP_IRIS_IRIS_LAST_WFS - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_IRIS/IRIS_LAST_WFS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -211,8 +205,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [My GeoServer WFS - geonode.imio.be](https://geonode.imio.be/geoserver/ows) - [GetCapabilities](https://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Poteaux - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Poteaux/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Poteaux/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [WFS_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/WFS/SIGEC_PARC_AGRI_ANON__2016/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Zones - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 

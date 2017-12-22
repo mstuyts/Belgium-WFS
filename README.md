@@ -82,8 +82,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - SADL KU Leuven](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs) - [GetCapabilities](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [GeoServer Web Feature Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - AGIV](https://remotesensing.agiv.be/gis/geoserver/wfs) - [GetCapabilities](https://remotesensing.agiv.be/gis/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -91,8 +89,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Feature Service - geoserver2.nodemapp.com](https://geoserver2.nodemapp.com/geoserver/ows) - [GetCapabilities](https://geoserver2.nodemapp.com/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - Vlaamse Milieumaatschappij](https://geoserver.vmm.be/geoserver/HDGIS/wfs) - [GetCapabilities](https://geoserver.vmm.be/geoserver/HDGIS/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [GeoServer Web Feature Service - geoserver.rwo.be](https://geoserver.rwo.be/geoserver/ows) - [GetCapabilities](https://geoserver.rwo.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - RWO](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -170,6 +166,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS Van nature overstroombare gebieden - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/NOG/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS Verrijkte KruispuntBank Ondernemingen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VKBO/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VKBO/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS Vlaamse Hydrografische Atlas - Waterlopen - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAWaterlopen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Vlaamse Hydrografische Atlas - Zones - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/VHAZones/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -209,8 +207,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 
 ## World
-
-* [CubeSERV Demo WFS - Foundation - CubeWerx Inc.](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation) - [GetCapabilities](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Flanders Marine Institute (VLIZ) - WFS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

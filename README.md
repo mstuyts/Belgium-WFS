@@ -82,6 +82,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - SADL KU Leuven](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs) - [GetCapabilities](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [GeoServer Web Feature Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - AGIV](https://remotesensing.agiv.be/gis/geoserver/wfs) - [GetCapabilities](https://remotesensing.agiv.be/gis/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

@@ -118,6 +118,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS Bebossing op de Vandermaelenkaarten - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosVandermaelen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BosVandermaelen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS Bedrijventerreinen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bedrijventerreinen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bedrijventerreinen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS Biologische Waarderingskaart en Natura 2000 Habitatkaart - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/BWK/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Bosleeftijd - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosleeftijd/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosleeftijd/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

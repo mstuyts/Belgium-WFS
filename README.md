@@ -58,7 +58,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [Atlas Buurtwegen (WFS) - Provincie Antwerpen](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [ANB_zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/ANB/zones/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/ANB/zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Centraal Referentieadressenbestand - AGIV](http://crab.agiv.be/OGC/Service.svc/) - [GetCapabilities](http://crab.agiv.be/OGC/Service.svc/?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -126,9 +126,9 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS Bosreferentielaag 2000 - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosref/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Bosref/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Focusgebieden nitraat mestdecreet - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Focusgebieden nitraat mestdecreet - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Focusnit/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS Gebieden met recht van voorkoop - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS Gebieden met recht van voorkoop - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS GRB - Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

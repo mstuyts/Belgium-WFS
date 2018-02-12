@@ -54,7 +54,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Flanders
 
-* [ - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [ - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

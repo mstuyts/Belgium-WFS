@@ -54,8 +54,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Flanders
 
-* [ - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wfs) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Agentschap Onroerend Erfgoed Publieke Download Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -112,6 +110,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS - www.geoloket.be](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Adressen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -134,7 +134,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS Gebieden met recht van voorkoop - AIV](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/RVV/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS GRB - Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS GRB - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/GRB/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Grenzen van Polders - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Polders/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

@@ -26,6 +26,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Brugis WFS - DAF - BDU - SPRB](http://www.mybrugis.irisnet.be/geoserver/ows) - [GetCapabilities](http://www.mybrugis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [CIRB WFS1 - CIRB](http://geoserver.gis.irisnet.be/ows) - [GetCapabilities](http://geoserver.gis.irisnet.be/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [CIRB WFS1 - CIRB](http://geoserver.gis.irisnet.be/geoserver/ows) - [GetCapabilities](http://geoserver.gis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [CIRB WFS1 - CIRB](http://geoserver.gis.irisnet.be/urbis/wfs) - [GetCapabilities](http://geoserver.gis.irisnet.be/urbis/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -110,9 +112,13 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS - www.geoloket.be](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Adressen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -209,6 +215,10 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [My GeoServer WFS - geonode.imio.be](https://geonode.imio.be/geoserver/ows) - [GetCapabilities](https://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Poteaux - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Poteaux/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Poteaux/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFS Inventaire Terrain - siggwm.hainaut.be](https://siggwm.hainaut.be/WFS_InventaireTerrain/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WFS_InventaireTerrain/service.svc/get?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [WFSG Rues - sample provider name](https://siggwm.hainaut.be/WFSG_Hainaut/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WFSG_Hainaut/service.svc/get?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Zones - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WFSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 

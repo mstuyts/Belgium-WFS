@@ -82,8 +82,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - Gent](https://geo.gent.be/geoserver/ows) - [GetCapabilities](https://geo.gent.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - SADL KU Leuven](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs) - [GetCapabilities](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -197,8 +195,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [WFS_regios - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 
 

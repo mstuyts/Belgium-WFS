@@ -82,8 +82,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - Gent](https://geo.gent.be/geoserver/ows) - [GetCapabilities](https://geo.gent.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [GeoServer Web Feature Service - SADL KU Leuven](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs) - [GetCapabilities](http://geoserver.ruimtemonitor.be/geoserver/rm/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [GeoServer Web Feature Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -118,7 +116,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS - www.geoloket.be](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Viewers_html/TempBFF/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Viewers_html/TempBFF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Adressen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Adressen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -198,8 +196,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
-
 
 
 ## Wallonia
@@ -228,7 +224,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CubeSERV Demo WFS - Foundation - CubeWerx Inc.](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation) - [GetCapabilities](https://portal.cubewerx.com/cubewerx/cubeserv.cgi/simple?DATASTORE=Foundation?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [Flanders Marine Institute (VLIZ) - WFS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
+* [Flanders Marine Institute (VLIZ) - WFS Service - VLIZ](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - OBIS](http://iobis.org/geoserver/ows) - [GetCapabilities](http://iobis.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 

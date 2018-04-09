@@ -110,11 +110,11 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/BFF/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/BFF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS - www.geoloket.be](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasBuurtwegenTest/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasBuurtwegenTest/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Viewers_html/TempBFF/MapServer/WFSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Viewers_html/TempBFF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 

@@ -38,10 +38,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [irisnet.be - CIRB](https://geoservices-urbis.irisnet.be/geoserver/Urbis/ows) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/Urbis/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [layer of proprietary information - Gael Kruwialis](http://wfs.ibgebim.be/ibgewfs) - [GetCapabilities](http://wfs.ibgebim.be/ibgewfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [layer of proprietary information - Gael Kruwialis](http://wfs.ibgebim.be/cgi-bin/tinyows.fcgi) - [GetCapabilities](http://wfs.ibgebim.be/cgi-bin/tinyows.fcgi?REQUEST=GetCapabilities&SERVICE=WFS)
-
 * [WFS for bm_bike - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_bike/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_bike/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS for bm_parking - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_parking/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_parking/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -93,8 +89,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Feature Service - Vlaamse Milieumaatschappij](https://geoserver.vmm.be/geoserver/HDGIS/wfs) - [GetCapabilities](https://geoserver.vmm.be/geoserver/HDGIS/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - RWO](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [LF routes Vlaanderen - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [meetpunten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -191,8 +185,6 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [WFS Watersystemen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/Watersystemen/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS Woningbouw- en woonvernieuwingsgebieden - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
-
-* [WFS_regios - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

@@ -94,7 +94,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Feature Service - RWO](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [LF routes Vlaanderen - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [LF routes Vlaanderen - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [meetpunten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WFSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -102,9 +102,9 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [routes_fietsnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [routes_fietsnetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [routes_wandelnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [routes_wandelnetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [verkeerscentrum.be - indicatoren.verkeerscentrum.be](http://indicatoren.verkeerscentrum.be/geoserver/ows) - [GetCapabilities](http://indicatoren.verkeerscentrum.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -192,7 +192,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WFS Woningbouw- en woonvernieuwingsgebieden - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs) - [GetCapabilities](https://geoservices.informatievlaanderen.be/overdrachtdiensten/WoningbWoonvernieuwing/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [WFS_regios - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [WFS_regios - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/download/feature/AM_wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 

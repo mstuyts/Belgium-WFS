@@ -38,6 +38,10 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [irisnet.be - CIRB](https://geoservices-urbis.irisnet.be/geoserver/Urbis/ows) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/Urbis/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [layer of proprietary information - Gael Kruwialis](http://wfs.ibgebim.be/ibgewfs) - [GetCapabilities](http://wfs.ibgebim.be/ibgewfs?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [layer of proprietary information - Gael Kruwialis](http://wfs.ibgebim.be/cgi-bin/tinyows.fcgi) - [GetCapabilities](http://wfs.ibgebim.be/cgi-bin/tinyows.fcgi?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [WFS for bm_bike - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_bike/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_bike/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [WFS for bm_parking - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_parking/wfs) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_parking/wfs?REQUEST=GetCapabilities&SERVICE=WFS)

@@ -100,6 +100,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
+* [P_IOT_iot_parking - geodata.antwerpen.be](http://geodata.antwerpen.be/arcgissql/services/P_IOT/iot_parking/MapServer/WFSServer) - [GetCapabilities](http://geodata.antwerpen.be/arcgissql/services/P_IOT/iot_parking/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [routes_fietsnetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [routes_wandelnetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)

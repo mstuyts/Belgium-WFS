@@ -24,6 +24,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Brussels
 
+* [Brugis WFS - DAF - BDU - SPRB](https://mybrugis.irisnet.be/geoserver/ows) - [GetCapabilities](https://mybrugis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
 * [CIRB WFS1 - CIRB](http://geoserver.gis.irisnet.be/ows) - [GetCapabilities](http://geoserver.gis.irisnet.be/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [CIRB WFS1 - CIRB](http://geoserver.gis.irisnet.be/geoserver/ows) - [GetCapabilities](http://geoserver.gis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
@@ -100,7 +102,7 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Mercator Publieke Download Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
-* [P_IOT_iot_parking - geodata.antwerpen.be](http://geodata.antwerpen.be/arcgissql/services/P_IOT/iot_parking/MapServer/WFSServer) - [GetCapabilities](http://geodata.antwerpen.be/arcgissql/services/P_IOT/iot_parking/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
+* [P_IOT_iot_parking - geodata.antwerpen.be](https://geodata.antwerpen.be/arcgissql/services/P_IOT/iot_parking/MapServer/WFSServer) - [GetCapabilities](https://geodata.antwerpen.be/arcgissql/services/P_IOT/iot_parking/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [routes_fietsnetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WFSServer?REQUEST=GetCapabilities&SERVICE=WFS)
 
@@ -225,6 +227,8 @@ More information about WFS Services kan be found on [Wikipedia](https://en.wikip
 * [Flanders Marine Institute (VLIZ) - WFS Service - VLIZ](http://geo.vliz.be/geoserver/MarineRegions/wfs) - [GetCapabilities](http://geo.vliz.be/geoserver/MarineRegions/wfs?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [GeoServer Web Feature Service - OBIS](http://iobis.org/geoserver/ows) - [GetCapabilities](http://iobis.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
+
+* [GeoServer Web Feature Service - Boundless](https://demo.boundlessgeo.com/geoserver/ows) - [GetCapabilities](https://demo.boundlessgeo.com/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WFS)
 
 * [lesprojekt.cz - gis.lesprojekt.cz](http://gis.lesprojekt.cz/wms/transport/traffic_volumes) - [GetCapabilities](http://gis.lesprojekt.cz/wms/transport/traffic_volumes?REQUEST=GetCapabilities&SERVICE=WFS)
 
